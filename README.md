@@ -6,11 +6,11 @@ While these projects originate from DataCamp's curriculum, many of them have bee
 
 ---
 
-## 🛠️ Local Environment & Reproducibility
+### Projects Currently in the Portfolio:
 
-To make the SQL-based notebooks fully functional and reproducible offline (outside of the DataCamp environment), I have configured them to run locally using **DuckDB** and **JupySQL**. 
+| Project Name | Language / Tech Stack |
+| :--- | :--- |
+| [🧠 Analyzing Students' Mental Health](./Analyzing Students' Mental Health/) | SQL (PostgreSQL / DuckDB) |
 
-If you want to run the SQL notebooks locally in VS Code:
-1. Install the required dependencies:
-   ```bash
-   pip install jupysql duckdb-engine pandas
+---
+*Note: The core datasets and project concepts belong to DataCamp. All additional deep-dives and custom environment configurations were independently developed by me.*
