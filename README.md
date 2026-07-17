@@ -10,7 +10,7 @@ While these projects originate from DataCamp's curriculum, many of them have bee
 
 | Project Name | Language / Tech Stack |
 | :--- | :--- |
-| [🧠 Analyzing Students' Mental Health](./Analyzing Students' Mental Health/) | SQL (PostgreSQL / DuckDB) |
+| [🧠 Analyzing Students' Mental Health](./Analyzing%20Students'%20Mental%20Health/) | SQL (PostgreSQL / DuckDB) |
 
 ---
 *Note: The core datasets and project concepts belong to DataCamp. All additional deep-dives and custom environment configurations were independently developed by me.*
